@@ -1,0 +1,17 @@
+[
+  {
+    id: 1,
+    question: {
+      text: "",
+      image: "",
+    },
+    answers: [
+      {
+        answer: "",
+        image: "",
+      },
+    ],
+    tags: ["", ""],
+    votes: 12
+  }
+]
